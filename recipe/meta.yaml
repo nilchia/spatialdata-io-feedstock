@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/spatialdata_io-{{ version }}.tar.gz
-  sha256: 5d1859a51fb20a23b9dcff12971b5720c6d684f9908f4edf84e0043b3c360643
+  sha256: b255883144b8724ae4e766b4a811adae89966bf045b2db4cb8025498ccf41178
 
 build:
   noarch: python
